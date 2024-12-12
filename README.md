@@ -61,8 +61,6 @@ vehicle-detection/
 ├── licence-plate-detection.ipynb       # Kaggle-specific notebook
 ├── integration of both the model for local.ipynb  # Local integration notebook
 ├── models/                             # Pre-trained model weights
-├── data/                               # Sample data for testing
-├── database/                           # Database files
 ├── requirements.txt                    # Python dependencies
 └── README.md                           # Project documentation
 ```
