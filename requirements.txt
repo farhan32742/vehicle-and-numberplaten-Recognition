@@ -1,0 +1,7 @@
+
+ultralytics
+torch
+easyocr
+numpy
+pyodbc
+opencv-python-headless
